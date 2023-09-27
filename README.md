@@ -1,7 +1,11 @@
 # Matheus Alimura
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-MatheusAlimura-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusalimura/)](https://www.linkedin.com/in/matheusalimura/) 
-[![Gmail Badge](https://img.shields.io/badge/-matheuskiyoshi@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:matheuskiyoshi@gmail.com)](mailto:matheuskiyoshi@gmail.com)
+<a href="https://www.linkedin.com/in/matheusalimura/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-MatheusAlimura-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
+</a>
+<a href="mailto:matheuskiyoshi@gmail.com">
+    <img src="https://img.shields.io/badge/-matheuskiyoshi@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
+</a>
 
 ## About me
 
